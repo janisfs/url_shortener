@@ -1,6 +1,23 @@
 {
   "cSpell.words": [
+    "aiofiles",
+    "aiogram",
+    "aiohappyeyeballs",
+    "aiohttp",
+    "aiosignal",
+    "anyio",
+    "certifi",
+    "colorama",
+    "fastapi",
+    "frozenlist",
+    "idna",
+    "multidict",
+    "propcache",
+    "pydantic",
+    "sniffio",
+    "starlette",
     "uvicorn",
+    "yarl",
     "Привет",
     "простой",
     "сервер"
